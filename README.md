@@ -11,8 +11,8 @@ and reconstruction strategies such as simultaneous multislice (SMS-MRE).
 
 I also work extensively on recovering high-quality displacement fields from 
 noisy and highly aliased data through a combination of deep learning models 
-(DIME, 3D-DIME) and optimization-based reconstruction. My work integrates 
-biomechanics, MRI physics, and machine learning to improve robustness and 
+(DIME, 3D-DIME) and DL-based reconstruction. My work integrates 
+MRE physics simulation using FEM, and Deep Learning to improve robustness and 
 clinical feasibility of MRE stiffness mapping. 
 
 I am co-advised by **Prof. Rizwan Ahmad** and **Prof. Arunark Kolipaka** at 
@@ -22,10 +22,10 @@ The Ohio State University.
 
 ## 📬 Connect with Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:iftikhar.15@osu.edu)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:khan.hassan13579@gmail.com)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:iftikhar.15@buckeyemail.osu.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassaniftikhar/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/HassanIftikhar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassan-iftikhar-8305a9191/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/HassanIftikhar013)
 
 
 ---

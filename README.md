@@ -1,7 +1,32 @@
-# Hassan Iftikhar
-## Ph.D. Candidate, Dept. of Biomedical Engineering
+## Hassan Iftikhar
+### Ph.D. Candidate, Dept. of Biomedical Engineering | The Ohio State University
 
-Welcome to my data analyst portfolio! I specialize in turning raw data into meaningful insights using tools like Python, SQL, and Tableau. With hands-on project experience and a solid academic background, I bring both analytical depth and business understanding to every challenge.
+
+I work on developing and applying signal processing, optimization, and deep 
+learning techniques for advanced reconstruction in magnetic resonance 
+elastography (MRE) and quantitative MRI. My doctoral research focuses on 
+accurate and rapid stiffness estimation using FEM-driven simulation pipelines, 
+physics-informed inverse problem formulations, and accelerated MRE acquisition 
+and reconstruction strategies such as simultaneous multislice (SMS-MRE). 
+
+I also work extensively on recovering high-quality displacement fields from 
+noisy and highly aliased data through a combination of deep learning models 
+(DIME, 3D-DIME) and optimization-based reconstruction. My work integrates 
+biomechanics, MRI physics, and machine learning to improve robustness and 
+clinical feasibility of MRE stiffness mapping. 
+
+I am co-advised by **Prof. Rizwan Ahmad** and **Prof. Arunark Kolipaka** at 
+The Ohio State University.
+
+---
+
+## 📬 Connect with Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:iftikhar.15@osu.edu)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:iftikhar.15@buckeyemail.osu.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassaniftikhar/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/HassanIftikhar)
+
 
 ---
 

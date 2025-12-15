@@ -49,15 +49,20 @@ The Ohio State University.
 
 - Code: [**Github Code Link**](https://github.com/HassanIftikhar013/DIME)
 
-### 2️⃣    3D-DIME – Extension of DIME to Volumetric MRE
+### 2️⃣    3D-DIME – Extension of DIME for 3D MR Elastography
 
 [![3D-DIME Project Thumbnail](images/3d-dime.png)](#)
-**Scaling DIME to fully 3D volumetric stiffness estimation.**
 
-- Extends the DIME framework from 2D slices to **3D MRE acquisitions**, improving anatomical consistency across slices.
-- Uses 3D volumetric FEM phantoms for liver and brain with 3D  for training.
-- Submitted as an abstract to **ISMRM 2026** focusing on 3D stiffness reconstruction performance.
-
+- Extends the DIME framework from 2D slices to 3D MRE acquisitions, improving anatomical consistency across slices.
+- Trained on 3D volumetric FEM phantoms for liver and brain applications, incorporating realistic anatomy and material heterogeneity.
+- Status:
+   - Proof of technique demonstrated in abstract submitted to **ISMRM 2026** focusing on 3D stiffness reconstruction performance. [**Abstract Link**](https://buckeyemailosu-my.sharepoint.com/:b:/g/personal/iftikhar_15_buckeyemail_osu_edu/IQB19sSnAYfGS6msOVQwUyv5ASnUST0Gdahftx7S7CFtJkE?e=vs2JRO)
+  -  3D-MRE acquisition for breast tumour application is in process.
+  -  Journal Manuscript in preparation, demonstrating:
+      - Superiority of 3D MRE over conventional 2D MRE
+      - Broader MRE applications enabled with fully 3D wavefield acquisitions
+      - Focus on Breast MRE with additional applications shown.
+---
 
 ## 🧠 Skills
 

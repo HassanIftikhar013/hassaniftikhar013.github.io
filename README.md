@@ -43,7 +43,7 @@ The Ohio State University.
   - High correlation with ground truth stiffness
   - Reduced bias vs. traditional inversion methods
   - Sharper recovery of localized stiffness changes (e.g., inclusions, focal lesions)
-  - Demonstrated performance for in vivo liver applications
+  - Performance for in vivo liver applications
 - Status:
   - Journal manuscript *“DIME: Deep Learning Driven Inversion Framework for Shear Modulus Estimation in Magnetic Resonance Elastography”* under review in Magnetic Resonance in Medicine (MRM)
 

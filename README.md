@@ -36,7 +36,6 @@ The Ohio State University.
 ### 1️⃣ DIME – Deep Learning Driven Inversion Framework for Shear Modulus Estimation in MRE
 
 [![DIME Project Thumbnail](images/dime.png)](#)
-**Deep learning framework to estimate stiffness maps from MRE wavefields.**
 
 - Trains a U-Net–style model on **FEM-generated phantoms** to reconstruct shear modulus maps from complex-valued displacement fields. :contentReference[oaicite:1]{index=1}  
 - Evaluated on **homogeneous, heterogeneous, and anatomy-informed phantoms** as well as **in vivo liver MRE data**.

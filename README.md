@@ -37,8 +37,8 @@ The Ohio State University.
 
 [![DIME Project Thumbnail](images/dime.png)](#)
 
-- Trains a U-Net–style model on **FEM-generated phantoms** to reconstruct shear modulus maps from complex-valued displacement fields. 
-- Evaluated on **homogeneous, heterogeneous, and anatomy-informed phantoms** as well as **in vivo liver MRE data**.
+- Trains a U-Net–style model on FEM-generated phantoms to reconstruct shear modulus maps from complex-valued displacement fields. 
+- Evaluated on homogeneous, heterogeneous, and anatomy-informed phantoms as well as in vivo liver MRE data.
 - Demonstrated:
   - High correlation with ground truth stiffness
   - Reduced bias vs. traditional inversion methods
@@ -47,7 +47,7 @@ The Ohio State University.
 - Status:
   - Journal manuscript *“DIME: Deep Learning Driven Inversion Framework for Shear Modulus Estimation in Magnetic Resonance Elastography”* under review in Magnetic Resonance in Medicine (MRM)
 
-[**Github Code Link**](https://github.com/HassanIftikhar013/DIME)
+- Code: [**Github Code Link**](https://github.com/HassanIftikhar013/DIME)
 
 
 

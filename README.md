@@ -3,14 +3,14 @@
 
 
 I work on developing and applying signal processing, optimization, and deep 
-learning techniques for advanced reconstruction in magnetic resonance 
-elastography (MRE) and quantitative MRI. My doctoral research focuses on 
+learning techniques for solving inverse problems in magnetic resonance 
+elastography (MRE). My doctoral research focuses on 
 accurate and rapid stiffness estimation using FEM-driven simulation pipelines, 
 physics-informed inverse problem formulations, and accelerated MRE acquisition 
 and reconstruction strategies such as simultaneous multislice (SMS-MRE). 
 
-I also work extensively on recovering high-quality displacement fields from 
-noisy and highly aliased data through a combination of deep learning models 
+I also work extensively on recovering high-quality stiffness maps from 
+noisy and highly aliased MRE-wave images through a combination of deep learning models 
 (DIME, 3D-DIME) and DL-based reconstruction. My work integrates 
 MRE physics simulation using FEM, and Deep Learning to improve robustness and 
 clinical feasibility of MRE stiffness mapping. 
@@ -30,7 +30,7 @@ The Ohio State University.
 
 ---
 
-## 👤 Profile Summary
+## 📈 Research Projects Project
 
 - 2 years of academic experience in data analysis, with expertise in data cleaning, transformation, and wrangling using **Python (Pandas, NumPy)** and **SQL**
 - Skilled in creating **interactive dashboards** using Tableau and Power BI to communicate insights and support business decisions
@@ -38,6 +38,29 @@ The Ohio State University.
 - Experience working with cross-functional teams in agile environments
 
 ---
+
+## 🧪 Research Projects
+
+> 🔽 You can replace the `images/*.png` paths with actual thumbnails from your figures or posters.
+
+### 1️⃣ DIME – Deep Learning Driven Inversion Framework for Shear Modulus Estimation in MRE
+
+[![DIME Project Thumbnail](images/dime.png)](#)
+**Deep learning framework to estimate stiffness maps from MRE wavefields.**
+
+- Trains a U-Net–style model on **FEM-generated phantoms** to reconstruct shear modulus maps from complex-valued displacement fields. :contentReference[oaicite:1]{index=1}  
+- Evaluated on **homogeneous, heterogeneous, and anatomy-informed phantoms** as well as **in vivo liver MRE data**.
+- Demonstrated:
+  - High correlation with ground truth stiffness
+  - Reduced bias vs. traditional inversion methods
+  - Sharper recovery of localized stiffness changes (e.g., inclusions, focal lesions)
+- Status:
+  - Journal manuscript *“DIME: Deep Learning Driven Inversion Framework for Shear Modulus Estimation in Magnetic Resonance Elastography”* under review. :contentReference[oaicite:2]{index=2}  
+
+> 📌 *Suggestion:* Link this to your code repo or arXiv preprint when public:
+> `[![DIME](images/dime.png)](https://github.com/your-user/dime)`
+
+
 
 ## 🧠 Skills
 

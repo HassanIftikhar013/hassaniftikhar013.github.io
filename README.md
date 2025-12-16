@@ -46,7 +46,7 @@ The Ohio State University.
   - Performance for in vivo liver applications.
 - Status:
   - Journal manuscript *“DIME: Deep Learning Driven Inversion Framework for Shear Modulus Estimation in Magnetic Resonance Elastography”* under review in Magnetic Resonance in Medicine (MRM).
-  - Preprint: []
+  - Preprint: [https://arxiv.org/abs/2512.13010](https://arxiv.org/abs/2512.13010)
   - Code: [**Github Code Link**](https://github.com/HassanIftikhar013/DIME)
 
 ### 2️⃣    3D-DIME – Extension of DIME for 3D MR Elastography

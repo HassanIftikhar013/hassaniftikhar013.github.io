@@ -1,4 +1,4 @@
-<img width="468" height="11" alt="image" src="https://github.com/user-attachments/assets/134d737c-238b-4c07-be22-6e5172fb2e8c" /><img width="468" height="148" alt="image" src="https://github.com/user-attachments/assets/0d208d2e-4e0d-473a-8c44-0a18c7ce0faf" /><img width="468" height="148" alt="image" src="https://github.com/user-attachments/assets/b73758e8-4bd8-4ed3-a997-88bca00472b9" />## Hassan Iftikhar
+## Hassan Iftikhar
 ### Ph.D. Candidate, Dept. of Biomedical Engineering | The Ohio State University
 
 

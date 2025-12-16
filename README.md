@@ -131,7 +131,7 @@ Rapid AI-Based Gradient Echo Enhancement for Cardiac Imaging
 ## 🎓 Education
 
 ### Ph.D. in Computational Imaging and Machine Learning  
-*The Ohio State University, Columbus, OH | Aug 2022 – May 2026*  
+*The Ohio State University, Columbus, OH | Aug 2022 – April 2027*  
 GPA: 3.8 / 4.0  
 
 - Research Interests: Machine Learning, Advanced Signal Processing, Biomedical Imaging, Convex Optimization, Stochastic Processes, Reinforcement Learning

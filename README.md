@@ -101,14 +101,14 @@ The Ohio State University.
 ### Graduate Research Associate — OSU Wexner Medical Center  
 *Columbus, OH | Aug 2022 – Present*
 
-Rapid AI-Based Gradient Echo Enhancement for Cardiac Imaging  
-- Developed a Plug-and-Play reconstruction framework for Cardiac MRE, enabling ~2× faster acquisition using a CNN-based denoiser within an ADMM optimization framework.
-- Implemented transfer learning by pretraining the denoiser on fully sampled cardiac MRI data and fine-tuning it on Cardiac MRE data to improve reconstruction performance.
-
 Deep Learning–Based Stiffness Estimation in MR Elastography (MRE)  
 - Developed a state-of-the-art AI-driven pipeline for MRE stiffness map reconstruction using U-Net architectures and FEM-based synthetic datasets, outperforming conventional inversion methods.
 - Applied domain adaptation techniques to bridge simulated and in vivo datasets, ensuring robust performance on real-world clinical data.
 - Published and presented research findings at the International Society for Magnetic Resonance in Medicine (ISMRM) conference.
+
+Rapid AI-Based Gradient Echo Enhancement for Cardiac Imaging  
+- Developed a Plug-and-Play reconstruction framework for Cardiac MRE, enabling ~2× faster acquisition using a CNN-based denoiser within an ADMM optimization framework.
+- Implemented transfer learning by pretraining the denoiser on fully sampled cardiac MRI data and fine-tuning it on Cardiac MRE data to improve reconstruction performance.
 
 ---
 
@@ -118,7 +118,6 @@ Deep Learning–Based Stiffness Estimation in MR Elastography (MRE)
 - Developed software-based testing solutions for validating I2C and SPI communication protocols, reducing reliance on hardware test benches.
 - Simulated master–slave communication using ARM DStream on Ultrazed and BeagleBone Black platforms to streamline testing workflows.
 - Improved system efficiency through advanced debugging, performance analysis, and protocol validation strategies.
-
 
 ---
 

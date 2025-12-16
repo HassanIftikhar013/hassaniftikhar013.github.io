@@ -1,5 +1,3 @@
-## Hassan Iftikhar
-### Ph.D. Candidate, Dept. of Biomedical Engineering | The Ohio State University
 
 
 I work on developing and applying signal processing, optimization, and deep 

@@ -79,7 +79,7 @@ I am co-advised by [Prof. Rizwan Ahmad](https://scholar.google.com/citations?hl=
 **DIME: Deep Learning Driven Inversion Framework for Shear Modulus Estimation in Magnetic Resonance Elastography (2025)** 
 - Authors: H. Iftikhar, R. Ahmad, A. Kolipaka  
 - Journal: *Magnetic Resonance in Medicine (MRM)* — under review  
-- Code: GitHub Code Link  
+- Code: [GitHub Code Link](https://github.com/HassanIftikhar013/DIME)  
 - Preprint: [https://arxiv.org/abs/2512.13010](https://arxiv.org/abs/2512.13010)  
 
 ---

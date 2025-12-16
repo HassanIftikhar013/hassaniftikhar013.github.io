@@ -43,7 +43,7 @@ I am co-advised by [Prof. Rizwan Ahmad](https://scholar.google.com/citations?hl=
 - Status:
   - Journal manuscript *“DIME: Deep Learning Driven Inversion Framework for Shear Modulus Estimation in Magnetic Resonance Elastography”* under review in Magnetic Resonance in Medicine (MRM).
   - Preprint: [https://arxiv.org/abs/2512.13010](https://arxiv.org/abs/2512.13010)
-  - Code: [**Github Code Link**](https://github.com/HassanIftikhar013/DIME)
+  - Code: [Github Code Link](https://github.com/HassanIftikhar013/DIME)
 
 ### 2️⃣    3D-DIME – Extension of DIME for 3D MR Elastography
 
@@ -52,7 +52,7 @@ I am co-advised by [Prof. Rizwan Ahmad](https://scholar.google.com/citations?hl=
 - Extends the DIME framework from 2D slices to 3D MRE acquisitions, improving anatomical consistency across slices.
 - Trained on 3D volumetric FEM phantoms for liver and brain applications, incorporating realistic anatomy and material heterogeneity.
 - Status:
-   - Proof of technique demonstrated in abstract submitted to ISMRM 2026 focusing on 3D stiffness reconstruction performance. [**Abstract Link**](https://buckeyemailosu-my.sharepoint.com/:b:/g/personal/iftikhar_15_buckeyemail_osu_edu/IQB19sSnAYfGS6msOVQwUyv5ASnUST0Gdahftx7S7CFtJkE?e=vs2JRO)
+   - Proof of technique demonstrated in abstract submitted to ISMRM 2026 focusing on 3D stiffness reconstruction performance. [Abstract Link](https://buckeyemailosu-my.sharepoint.com/:b:/g/personal/iftikhar_15_buckeyemail_osu_edu/IQB19sSnAYfGS6msOVQwUyv5ASnUST0Gdahftx7S7CFtJkE?e=vs2JRO)
   -  3D-MRE acquisition for breast tumour application is in process.
   -  Journal Manuscript in preparation, demonstrating:
       - Superiority of 3D MRE over conventional 2D MRE.

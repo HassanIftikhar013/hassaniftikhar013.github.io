@@ -66,7 +66,6 @@ The Ohio State University.
 ### 3️⃣ Deep Learning–based Reconstruction for SMS-Accelerated MRE
 
 [![SMS-MRE Project Thumbnail](images/sms-mre.png)](#)
-**DL reconstruction for Simultaneous Multislice (SMS) MRE to reduce scan time.**
 
 - Developed a deep learning reconstruction pipeline for **SMS-accelerated MRE**, combining:
   - SMS-EPI acquisition schemes

@@ -1,4 +1,4 @@
-
+## 👤 Profile Summary 
 
 I work on developing and applying signal processing, optimization, and deep 
 learning techniques for solving inverse problems in magnetic resonance 

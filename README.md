@@ -144,7 +144,7 @@ GPA: 3.8 / 4.0
 GPA: 3.6 / 4.0  
 
 - Areas of Interest: Machine Learning, Embedded Systems, Computer Architecture
-- Advisor: Dr. Muhammad Tahir
+- Advisor: [Dr. Muhammad Tahir](https://scholar.google.com.pk/citations?user=52OLKmgAAAAJ&hl=en)
 
 ---
 

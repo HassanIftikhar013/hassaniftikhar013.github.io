@@ -46,8 +46,8 @@ The Ohio State University.
   - Performance for in vivo liver applications.
 - Status:
   - Journal manuscript *“DIME: Deep Learning Driven Inversion Framework for Shear Modulus Estimation in Magnetic Resonance Elastography”* under review in Magnetic Resonance in Medicine (MRM).
-
-- Code: [**Github Code Link**](https://github.com/HassanIftikhar013/DIME)
+  - Preprint: []
+  - Code: [**Github Code Link**](https://github.com/HassanIftikhar013/DIME)
 
 ### 2️⃣    3D-DIME – Extension of DIME for 3D MR Elastography
 
@@ -194,19 +194,28 @@ GPA: 3.6 / 4.0
 
 ---
 
-## ❤️ Volunteer Experience
+## 🎤 Presentations and Talks
 
-- Conducted weekend programming workshops for underprivileged high school students
-- Coordinated logistics for fundraising race events supporting children’s education
-
----
-
-## 📬 Let’s Connect!
-
-- 📧 Email: [Your Email]  
-- 🔗 LinkedIn: [LinkedIn Profile]  
-- 💻 GitHub: [GitHub Portfolio]
+**2026 (Upcoming)**  
+“DIME: Deep Learning Driven Inversion Framework for Shear Modulus Estimation in Magnetic Resonance Elastography”  
+- Hayes Advanced Research Forum, Columbus, OH
 
 ---
 
-Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate or connect.
+**2026 (Upcoming)**  
+“DIME: Deep Learning Driven Inversion Framework for Shear Modulus Estimation in Magnetic Resonance Elastography”  
+- ISMRM 2026: Image Reconstruction and AI Session, Cape Town, South Africa
+
+---
+
+**2025**  
+“Curating Dataset for AI-Based Stiffness Estimation in MR Elastography Using Finite Element Modeling and Polynomial Curve Fitting”  
+- ISMRM 2025: Acquisition and Reconstruction Session, Honolulu, Hawaiʻi
+
+---
+
+**2024**  
+“Revolutionizing MR Elastography: Deep Learning-Powered Stiffness Map Reconstruction from Sparse Wavefield Data”  
+- ISMRM 2024: Image Reconstruction and AI Session, Singapore
+
+---

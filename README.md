@@ -83,6 +83,14 @@ The Ohio State University.
 **Tools and Platforms:** PyTorch, TensorFlow, CUDA, SQL, Django, COMSOL Multiphysics, JMP
 **Embedded Systems:** FreeRTOS,FreeRTOS, Nucleus RTOS, SPI/I2C Protocols, ARM DStream, STM32, Ultrazed Board, RISC-V
 
+- Machine Learning: Classification, Regression, Clustering, PCA  
+- Deep Learning: CNNs, DNNs, GANs, RNNs, VAEs, LSTMs, Flow Models, Autoregressive Models, Transformers  
+- Core Competencies: Machine Learning, Deep Learning, Image Processing, Signal Processing  
+- Programming Languages: Python, C/C++, MATLAB, SQL, Verilog HDL  
+- Tools and Platforms: PyTorch, TensorFlow, CUDA, SQL, Django, COMSOL Multiphysics, JMP  
+- Embedded Systems: FreeRTOS, Nucleus RTOS, SPI/I2C Protocols, ARM DStream, STM32, Ultrazed Board, RISC-V  
+
+
 ---
 
 ## 💼 Professional Experience

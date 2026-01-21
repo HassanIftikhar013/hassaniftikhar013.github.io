@@ -1,15 +1,51 @@
-<div align="center">
+<style>
+/* ===== Top Navigation Buttons ===== */
+.navbar {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px;
+  margin-bottom: 18px;
+}
 
-<a href="#profile-summary"><button>👤 Profile</button></a>
-<a href="#connect"><button>📬 Connect</button></a>
-<a href="#research"><button>🧪 Research</button></a>
-<a href="#publications"><button>📚 Publications</button></a>
-<a href="#education"><button>🎓 Education</button></a>
-<a href="#skills"><button>🧠 Skills</button></a>
+.nav-btn {
+  padding: 7px 14px;
+  border-radius: 999px;
+  border: 1px solid #1f6feb;
+  background-color: #ffffff;
+  color: #1f6feb;
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+}
 
+.nav-btn:hover {
+  background-color: #1f6feb;
+  color: #ffffff;
+  transform: translateY(-1px);
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+</style>
+
+<div class="navbar">
+  <a href="#profile-summary"><button class="nav-btn">👤 Profile</button></a>
+  <a href="#connect"><button class="nav-btn">📬 Connect</button></a>
+  <a href="#research"><button class="nav-btn">🧪 Research</button></a>
+  <a href="#publications"><button class="nav-btn">📚 Publications</button></a>
+  <a href="#education"><button class="nav-btn">🎓 Education</button></a>
+  <a href="#skills"><button class="nav-btn">🧠 Skills</button></a>
+  <a href="#presentations"><button class="nav-btn">🎤 Talks</button></a>
+  <a href="#experience"><button class="nav-btn">💼 Experience</button></a>
+  <a href="#services"><button class="nav-btn">🤝 Leadership</button></a>
+  <a href="#awards"><button class="nav-btn">🏅 Awards</button></a>
 </div>
 
-<br>
+<hr>
 
 
 
@@ -134,7 +170,7 @@ I am co-advised by [Prof. Rizwan Ahmad](https://scholar.google.com/citations?hl=
 - Link: [ISMRM’24 Link](https://archive.ismrm.org/2024/2815.html)  
 
 ---
-
+<a id="presentations"></a>
 ## 🎤 Presentations and Talks
 
 **2026 (Upcoming)**  
@@ -191,7 +227,7 @@ GPA: 3.6 / 4.0
 - Advisor: [Dr. Muhammad Tahir](https://scholar.google.com.pk/citations?user=52OLKmgAAAAJ&hl=en)
 
 ---
-
+<a id="experience"></a>
 ## 💼 Professional Experience
 
 ### Machine Learning & Software Development Intern — BLOMSO  
@@ -235,7 +271,7 @@ Rapid AI-Based Gradient Echo Enhancement for Cardiac Imaging
 
 ---
 
-
+<a id="services"></a>
 ## 🤝 Leadership & Service
 
 **2023 – 2024**  
@@ -275,7 +311,7 @@ Columbus, OH
 - Invited by the International Student Affairs Committee at OSU to share personal transition and graduate journey (March 2025).
 
 ---
-
+<a id="awards"></a>
 ## 🏅 Honors & Awards
 
 **2022**  

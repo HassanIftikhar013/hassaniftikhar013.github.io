@@ -82,9 +82,11 @@ html {
 
 
 <a id="profile-summary"></a>
+
 <div class="card">
 
 ## 👤 Profile Summary
+
 I develop signal processing, optimization, and deep learning methods to solve inverse problems in Magnetic Resonance Elastography (MRE). My doctoral research focuses on fast and accurate tissue stiffness estimation using FEM-driven simulation pipelines, Deep Learning, and accelerated MRE acquisition and reconstruction strategies, including simultaneous multislice MRE (SMS-MRE).
 
 I design deep learning–based inversion and reconstruction frameworks (DIME, 3D-DIME) to recover high-quality stiffness maps from noisy and highly aliased MRE wavefields. By integrating finite-element MRE physics with data-driven DL models, my work improves the robustness, accuracy, and clinical feasibility of MRE stiffness mapping.

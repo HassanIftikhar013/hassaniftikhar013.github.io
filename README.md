@@ -193,40 +193,11 @@ html {
 
 
 
+
+
+
 <a id="connect"></a>
-
-<div class="connect-bar">
-  <div class="connect-title">📬 Connect with Me</div>
-
-  <div class="connect-links">
-    <a class="connect-pill" href="mailto:khan.hassan13579@gmail.com">
-      <span class="dot dot-gmail"></span> Gmail
-    </a>
-
-    <a class="connect-pill" href="mailto:iftikhar.15@buckeyemail.osu.edu">
-      <span class="dot dot-outlook"></span> Outlook
-    </a>
-
-    <a class="connect-pill" href="https://www.linkedin.com/in/hassan-iftikhar-8305a9191/" target="_blank" rel="noopener noreferrer">
-      <span class="dot dot-linkedin"></span> LinkedIn
-    </a>
-
-    <a class="connect-pill" href="https://github.com/HassanIftikhar013" target="_blank" rel="noopener noreferrer">
-      <span class="dot dot-github"></span> GitHub
-    </a>
-
-    <a class="connect-pill" href="https://buckeyemailosu-my.sharepoint.com/:b:/g/personal/iftikhar_15_buckeyemail_osu_edu/IQA-NxavYZvhRZ7-ziG5ADNtAWXvoh7Lho5YQbgH6ECnZOQ?e=uOGx8p" target="_blank" rel="noopener noreferrer">
-      <span class="dot dot-cv"></span> CV (PDF)
-    </a>
-  </div>
-</div>
-
-<hr>
-
-
-
-/*<a id="connect"></a>
-## 📬 Connect with Me
+<div class="section-header">📬 Connect with Me</div>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:khan.hassan13579@gmail.com)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:iftikhar.15@buckeyemail.osu.edu)
@@ -235,8 +206,7 @@ html {
 [![CV](https://img.shields.io/badge/CV-PDF-2E7D32?logo=adobe-acrobat-reader&logoColor=white)](https://buckeyemailosu-my.sharepoint.com/:b:/g/personal/iftikhar_15_buckeyemail_osu_edu/IQA-NxavYZvhRZ7-ziG5ADNtAWXvoh7Lho5YQbgH6ECnZOQ?e=uOGx8p)
 
 
----*/
-
+---
 
 
 

@@ -1,4 +1,61 @@
 <style>
+/* Connect bar (not a card) */
+.connect-bar{
+  margin: 14px 0 22px 0;
+  padding: 14px 16px;
+  border-radius: 18px;
+  background: linear-gradient(90deg, rgba(31,111,235,0.10), rgba(46,125,50,0.08));
+  border: 1px solid rgba(31,111,235,0.20);
+}
+
+.connect-title{
+  font-weight: 800;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.connect-links{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.connect-pill{
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 12px;
+  border-radius: 999px;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 13px;
+  background: rgba(255,255,255,0.8);
+  border: 1px solid rgba(0,0,0,0.10);
+  transition: transform 0.15s ease, background 0.15s ease;
+}
+
+.connect-pill:hover{
+  transform: translateY(-1px);
+  background: rgba(255,255,255,1);
+}
+
+/* Small dot accents */
+.dot{ width:10px; height:10px; border-radius:50%; display:inline-block; }
+
+/* Optional: distinct colors per platform */
+.dot-gmail{ background:#D14836; }
+.dot-outlook{ background:#0078D4; }
+.dot-linkedin{ background:#0A66C2; }
+.dot-github{ background:#181717; }
+.dot-cv{ background:#2E7D32; }
+</style>
+
+
+
+
+
+
+<style>
 .section-header {
   display: inline-block;
   padding: 8px 16px;
@@ -137,6 +194,38 @@ html {
 
 
 <a id="connect"></a>
+
+<div class="connect-bar">
+  <div class="connect-title">📬 Connect with Me</div>
+
+  <div class="connect-links">
+    <a class="connect-pill" href="mailto:khan.hassan13579@gmail.com">
+      <span class="dot dot-gmail"></span> Gmail
+    </a>
+
+    <a class="connect-pill" href="mailto:iftikhar.15@buckeyemail.osu.edu">
+      <span class="dot dot-outlook"></span> Outlook
+    </a>
+
+    <a class="connect-pill" href="https://www.linkedin.com/in/hassan-iftikhar-8305a9191/" target="_blank" rel="noopener noreferrer">
+      <span class="dot dot-linkedin"></span> LinkedIn
+    </a>
+
+    <a class="connect-pill" href="https://github.com/HassanIftikhar013" target="_blank" rel="noopener noreferrer">
+      <span class="dot dot-github"></span> GitHub
+    </a>
+
+    <a class="connect-pill" href="https://buckeyemailosu-my.sharepoint.com/:b:/g/personal/iftikhar_15_buckeyemail_osu_edu/IQA-NxavYZvhRZ7-ziG5ADNtAWXvoh7Lho5YQbgH6ECnZOQ?e=uOGx8p" target="_blank" rel="noopener noreferrer">
+      <span class="dot dot-cv"></span> CV (PDF)
+    </a>
+  </div>
+</div>
+
+<hr>
+
+
+
+/*<a id="connect"></a>
 ## 📬 Connect with Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:khan.hassan13579@gmail.com)
@@ -146,12 +235,11 @@ html {
 [![CV](https://img.shields.io/badge/CV-PDF-2E7D32?logo=adobe-acrobat-reader&logoColor=white)](https://buckeyemailosu-my.sharepoint.com/:b:/g/personal/iftikhar_15_buckeyemail_osu_edu/IQA-NxavYZvhRZ7-ziG5ADNtAWXvoh7Lho5YQbgH6ECnZOQ?e=uOGx8p)
 
 
+---*/
 
 
 
 
-
----
 <a id="research"></a>
 <div class="section-header">🧪 Research Projects</div>
 

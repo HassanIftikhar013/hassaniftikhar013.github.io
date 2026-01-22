@@ -154,7 +154,6 @@ html {
 ---
 <a id="research"></a>
 <div class="section-header">🧪 Research Projects</div>
-## 🧪 Research Projects
 
 
 ### 1️⃣    DIME – Deep Learning Driven Inversion Framework for Shear Modulus Estimation in MRE

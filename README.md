@@ -1,4 +1,37 @@
 <style>
+/* Cards */
+.card {
+  border: 1px solid rgba(31,111,235,0.25);
+  border-radius: 16px;
+  padding: 16px 18px;
+  margin: 14px 0;
+  background: rgba(31,111,235,0.06);
+}
+
+/* A more neutral card (for secondary sections) */
+.card-muted {
+  border: 1px solid rgba(0,0,0,0.12);
+  border-radius: 16px;
+  padding: 16px 18px;
+  margin: 14px 0;
+  background: rgba(0,0,0,0.03);
+}
+
+/* Small badge pills (keywords) */
+.badge {
+  display: inline-block;
+  padding: 4px 10px;
+  margin: 4px 6px 0 0;
+  border-radius: 999px;
+  border: 1px solid rgba(31,111,235,0.30);
+  background: rgba(31,111,235,0.08);
+  font-size: 12px;
+  font-weight: 600;
+}
+</style>
+
+
+<style>
 /* ===== Top Navigation Buttons ===== */
 .navbar {
   display: flex;

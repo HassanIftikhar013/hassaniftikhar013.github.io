@@ -1,4 +1,17 @@
 <style>
+.section-header {
+  display: inline-block;
+  padding: 8px 16px;
+  margin: 28px 0 14px 0;
+  border-radius: 14px;
+  background: rgba(31,111,235,0.10);
+  border: 1px solid rgba(31,111,235,0.35);
+  font-weight: 700;
+  font-size: 20px;
+}
+</style>
+
+<style>
 /* Cards */
 .card {
   border: 1px solid rgba(31,111,235,0.25);
@@ -140,6 +153,7 @@ html {
 
 ---
 <a id="research"></a>
+<div class="section-header">🧪 Research Projects</div>
 ## 🧪 Research Projects
 
 

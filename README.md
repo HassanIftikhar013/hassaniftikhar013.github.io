@@ -452,12 +452,6 @@ The Ohio State University
 
 ---
 
-**2022**  
-Best Project in Computer Engineering Award  
-Department of Electrical Engineering, University of Engineering and Technology (UET), Lahore, Pakistan
-
----
-
 **2018 – 2022**  
 National Talent Scholarship  
 - Awarded throughout high school and undergraduate studies  

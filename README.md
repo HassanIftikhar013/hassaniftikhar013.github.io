@@ -265,7 +265,7 @@ html {
 - Authors: H. Iftikhar, R. Ahmad, A. Kolipaka  
 - Journal: *Magnetic Resonance in Medicine (MRM)* — under review  
 - Code: [GitHub Code Link](https://github.com/HassanIftikhar013/DIME)  
-- Link: ([[https://arxiv.org/abs/2512.13010](https://doi.org/10.1007/s10334-026-01375-2)](https://doi.org/10.1007/s10334-026-01375-2))  
+- Link: ([(https://doi.org/10.1007/s10334-026-01375-2)](https://doi.org/10.1007/s10334-026-01375-2))  
 
 ---
 

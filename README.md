@@ -362,6 +362,14 @@ GPA: 3.6 / 4.0
 <a id="experience"></a>
 <div class="section-header"> 💼 Professional Experience</div>
 
+### Software Engineer Intern — Neosoft  
+*Columbus, OH | May 2025 – Aug 2025*
+
+- Developed a DL model consisting of hybrid (CNN + Transformer) architecture for automated segmentation of myocardial infarction in the LGE-CMR images
+- Designed the pipeline to give the production life to the model and integrated it with suiteHeart Cardiac MRI Post processing software
+
+---
+
 ### Machine Learning & Software Development Intern — BLOMSO  
 *Columbus, OH | May 2025 – Aug 2025*
 

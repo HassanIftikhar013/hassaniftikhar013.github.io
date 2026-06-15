@@ -305,13 +305,13 @@ html {
 <a id="presentations"></a>
 <div class="section-header"> 🎤 Presentations and Talks</div>
 
-**2026 (Upcoming)**  
+**2026**  
 “DIME: Deep Learning Driven Inversion Framework for Shear Modulus Estimation in Magnetic Resonance Elastography”  
 - Hayes Advanced Research Forum, Columbus, OH
 
 ---
 
-**2026 (Upcoming)**  
+**2026**  
 “DIME: Deep Learning Driven Inversion Framework for Shear Modulus Estimation in Magnetic Resonance Elastography”  
 - ISMRM 2026: Image Reconstruction and AI Session, Cape Town, South Africa
 
@@ -363,7 +363,7 @@ GPA: 3.6 / 4.0
 <div class="section-header"> 💼 Professional Experience</div>
 
 ### Software Engineer Intern — Neosoft  
-*Columbus, OH | May 2025 – Aug 2025*
+*Milwaukee, Wisconsin | May 2026 – Aug 2026*
 
 - Developed a DL model consisting of hybrid (CNN + Transformer) architecture for automated segmentation of myocardial infarction in the LGE-CMR images
 - Designed the pipeline to give the production life to the model and integrated it with suiteHeart Cardiac MRI Post processing software

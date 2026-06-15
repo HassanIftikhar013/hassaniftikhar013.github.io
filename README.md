@@ -226,7 +226,7 @@ html {
   - Sharper recovery of localized stiffness changes (e.g., inclusions, focal lesions).
   - Performance for in vivo liver applications.
 - Status:
-  - Journal manuscript *“DIME: Deep Learning Driven Inversion Framework for Shear Modulus Estimation in Magnetic Resonance Elastography”* under review in Magnetic Resonance in Medicine (MRM).
+  - Journal manuscript *“DIME: Deep Learning Driven Inversion Framework for Shear Modulus Estimation in Magnetic Resonance Elastography”* published in Magnetic Resonance Materials in Physics, Biology and Medicine (MAGMA).
   - Link:  [(https://doi.org/10.1007/s10334-026-01375-2)](https://doi.org/10.1007/s10334-026-01375-2)
   - Code: [Github Code Link](https://github.com/HassanIftikhar013/DIME)
 

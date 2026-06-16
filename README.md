@@ -227,7 +227,7 @@ html {
   - Performance for in vivo liver applications.
 - Status:
   - Journal manuscript *“DIME: Deep Learning Driven Inversion Framework for Shear Modulus Estimation in Magnetic Resonance Elastography”* published in Magnetic Resonance Materials in Physics, Biology and Medicine (MAGMA).
-  - Link:  [(https://doi.org/10.1007/s10334-026-01375-2)](https://doi.org/10.1007/s10334-026-01375-2)
+  - Link:  [https://doi.org/10.1007/s10334-026-01375-2](https://doi.org/10.1007/s10334-026-01375-2)
   - Code: [Github Code Link](https://github.com/HassanIftikhar013/DIME)
 
 ### 2️⃣    3D-DIME – Extension of DIME for 3D MR Elastography

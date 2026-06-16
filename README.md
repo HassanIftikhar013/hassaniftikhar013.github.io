@@ -263,9 +263,9 @@ html {
 
 **DIME: Deep Learning Driven Inversion Framework for Shear Modulus Estimation in Magnetic Resonance Elastography (2025)** 
 - Authors: H. Iftikhar, R. Ahmad, A. Kolipaka  
-- Journal: *Magnetic Resonance in Medicine (MRM)* — under review  
+- Journal: *Magnetic Resonance Materials in Physics, Biology, and Medicine (MAGMA)*
 - Code: [GitHub Code Link](https://github.com/HassanIftikhar013/DIME)  
-- Link: [(https://doi.org/10.1007/s10334-026-01375-2)](https://doi.org/10.1007/s10334-026-01375-2)  
+- Link: [https://doi.org/10.1007/s10334-026-01375-2](https://doi.org/10.1007/s10334-026-01375-2)  
 
 ---
 

@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Hassan Iftikhar | Portfolio</title>
+    <meta
+      name="description"
+      content="Ph.D. candidate in computational imaging and machine learning, focused on MR Elastography, inverse problems, and deep learning."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="assets/styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="container nav" aria-label="Main navigation">
+        <a href="#top" class="brand">Hassan Iftikhar</a>
+        <button class="menu-toggle" aria-label="Open navigation menu">☰</button>
+        <ul class="nav-links">
+          <li><a href="#about">About</a></li>
+          <li><a href="#projects">Projects</a></li>
+          <li><a href="#advanced-ml">Applied ML</a></li>
+          <li><a href="#publications">Publications</a></li>
+          <li><a href="#experience">Experience</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main id="top">
+      <section class="hero container">
+        <div class="hero-text">
+          <p class="eyebrow">Machine Learning · Deep Learning · Biomedical Imaging</p>
+          <h1>
+            Machine learning for biomedical imaging, with MR Elastography as a primary focus.
+          </h1>
+          <p class="lead">
+            I’m a Ph.D. candidate at The Ohio State University building deep learning,
+            segmentation, diffusion/score-based generative modeling, and optimization pipelines for
+            imaging inverse problems and clinical decision support.
+          </p>
+          <div class="hero-actions">
+            <a class="btn btn-primary" href="#projects">View Research</a>
+            <a
+              class="btn btn-secondary"
+              href="https://buckeyemailosu-my.sharepoint.com/:b:/g/personal/iftikhar_15_buckeyemail_osu_edu/IQA-NxavYZvhRZ7-ziG5ADNtAWXvoh7Lho5YQbgH6ECnZOQ?e=uOGx8p"
+              target="_blank"
+              rel="noopener noreferrer"
+              >Download CV</a
+            >
+          </div>
+          <p class="hero-note">
+            Current work spans MRE reconstruction, automated scar segmentation in Myocardial Delayed Enhancement, and
+            Diffusion-driven augmentation for limited-data clinical imaging.
+          </p>
+        </div>
+        <div class="hero-card">
+          <img src="images/hi.jpeg" alt="Portrait of Hassan Iftikhar" />
+          <p class="profile-name">Hassan Iftikhar</p>
+          <p>Software Engineer Intern @ Neosoft</p>
+          <p>Ph.D. Candidate · Biomedical Engineering</p>
+          <p>The Ohio State University, Columbus</p>
+        </div>
+      </section>
+
+      <section id="about" class="container section">
+        <h2>Profile</h2>
+        <div class="positioning-note">
+          <strong>Research identity:</strong> ML/DL methods first, with MR Elastography as a
+          primary translational application domain.
+        </div>
+        <p>
+          My work integrates modern ML methods with imaging physics to improve robustness,
+          data-efficiency, and clinical feasibility in biomedical imaging.
+        </p>
+        <p>
+          I design inversion and reconstruction frameworks such as DIME and 3D-DIME to recover
+          high-quality stiffness maps from noisy and highly aliased wavefields. In parallel, I
+          apply segmentation and diffusion-based data strategies to other clinical imaging tasks,
+          so the methodology remains broadly transferable beyond elastography. I am co-advised by
+          <a
+            href="https://scholar.google.com/citations?hl=en&user=9mbdAO4AAAAJ&view_op=list_works&sortby=pubdate"
+            target="_blank"
+            rel="noopener noreferrer"
+            >Prof. Rizwan Ahmad</a
+          >
+          and
+          <a
+            href="https://scholar.google.com/citations?user=rhip9d0AAAAJ&hl=en"
+            target="_blank"
+            rel="noopener noreferrer"
+            >Prof. Arunark Kolipaka</a
+          >.
+        </p>
+        <div class="chip-list" aria-label="Core focus areas">
+          <span>MRE Inverse Problems</span>
+          <span>FEM Simulation</span>
+          <span>Deep Learning Inversion</span>
+          <span>Score-Based Gaussian Models</span>
+          <span>Biomedical Image Segmentation</span>
+          <span>SMS-MRE</span>
+          <span>Reconstruction</span>
+        </div>
+      </section>
+
+      <section id="projects" class="container section">
+        <h2>Featured Research Projects</h2>
+        <div class="project-grid">
+          <article class="card project-card">
+            <img src="images/dime.png" alt="DIME project figure" />
+            <div class="card-content">
+              <h3>DIME</h3>
+              <p>
+                Deep learning driven inversion framework for shear modulus estimation in MRE using
+                U-Net style models trained on FEM-generated phantoms.
+              </p>
+              <ul>
+                <li>Higher correlation with ground-truth stiffness</li>
+                <li>Lower bias than traditional inversion methods</li>
+                <li>Sharper recovery of focal stiffness changes</li>
+              </ul>
+              <p class="meta">Published in MAGMA</p>
+              <div class="inline-links">
+                <a href="https://doi.org/10.1007/s10334-026-01375-2" target="_blank" rel="noopener noreferrer">Paper</a>
+                <a href="https://github.com/HassanIftikhar013/DIME" target="_blank" rel="noopener noreferrer">Code</a>
+              </div>
+            </div>
+          </article>
+
+          <article class="card project-card">
+            <img src="images/3d-dime.png" alt="3D-DIME project figure" />
+            <div class="card-content">
+              <h3>3D-DIME</h3>
+              <p>
+                3D extension of DIME that improves cross-slice anatomical consistency using
+                volumetric FEM phantoms for liver and brain applications.
+              </p>
+              <ul>
+                <li>Technique demonstrated in ISMRM 2026 abstract</li>
+                <li>Breast tumor 3D-MRE application in progress</li>
+                <li>Journal manuscript in preparation</li>
+              </ul>
+              <div class="inline-links">
+                <a
+                  href="https://buckeyemailosu-my.sharepoint.com/:b:/g/personal/iftikhar_15_buckeyemail_osu_edu/IQB19sSnAYfGS6msOVQwUyv5ASnUST0Gdahftx7S7CFtJkE?e=vs2JRO"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  >Abstract</a
+                >
+              </div>
+            </div>
+          </article>
+
+          <article class="card project-card">
+            <img src="images/sms-mre.png" alt="SMS-MRE project figure" />
+            <div class="card-content">
+              <h3>SMS-Accelerated MRE Reconstruction</h3>
+              <p>
+                Deep learning reconstruction for SMS-EPI MRE to suppress aliasing and noise while
+                reducing effective scan constraints.
+              </p>
+              <ul>
+                <li>Liver MRE: shorter effective breath-hold burden</li>
+                <li>Ongoing lung MRE work at 0.55T and higher multiband factors</li>
+                <li>Submitted to ISMRM 2026</li>
+              </ul>
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <section id="advanced-ml" class="container section">
+        <h2>Applied ML Across Biomedical Imaging</h2>
+        <div class="two-col">
+          <article class="card">
+            <h3>Diffusion / Score-Based Gaussian Modeling (Neosoft)</h3>
+            <p>
+              Built score-based diffusion workflows to generate and augment clinically realistic
+              image variations, helping mitigate dataset scarcity and improve model robustness in
+              limited-data medical imaging settings.
+            </p>
+          </article>
+
+          <article class="card">
+            <h3>Myocardial Scar Segmentation (Neosoft)</h3>
+            <p>
+              Developed automated myocardial scar segmentation on LGE-CMR using hybrid
+              CNN+Transformer models, with diffusion-driven augmentation to address class imbalance
+              and sample scarcity in production-oriented pipelines.
+            </p>
+          </article>
+        </div>
+      </section>
+
+      <section id="publications" class="container section">
+        <h2>Publications & Talks</h2>
+        <div class="two-col">
+          <article class="card">
+            <h3>Selected Publications</h3>
+            <ol class="compact-list">
+              <li>
+                <strong>DIME: Deep Learning Driven Inversion Framework for Shear Modulus
+                Estimation in Magnetic Resonance Elastography</strong> (2025),
+                <em>MAGMA</em>.
+              </li>
+              <li>
+                DIME ISMRM 2026 abstract (submitted), Cape Town, South Africa.
+              </li>
+              <li>
+                3D-DIME ISMRM 2026 abstract (submitted), Cape Town, South Africa.
+              </li>
+              <li>
+                SMS-accelerated MRE reconstruction ISMRM 2026 abstract (submitted).
+              </li>
+              <li>
+                AI stiffness estimation dataset curation, ISMRM 2025, Honolulu.
+              </li>
+            </ol>
+            <a
+              class="text-link"
+              href="https://archive.ismrm.org/2024/2815.html"
+              target="_blank"
+              rel="noopener noreferrer"
+              >View prior ISMRM publication record</a
+            >
+          </article>
+
+          <article class="card">
+            <h3>Talks & Presentations</h3>
+            <ul class="compact-list">
+              <li>Hayes Advanced Research Forum, 2026 (Columbus, OH)</li>
+              <li>ISMRM 2026: Image Reconstruction and AI Session</li>
+              <li>ISMRM 2025: Acquisition and Reconstruction Session</li>
+              <li>ISMRM 2024: Image Reconstruction and AI Session</li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section id="experience" class="container section">
+        <h2>Experience</h2>
+        <div class="timeline">
+          <article class="timeline-item">
+            <h3>Software Engineer Intern · Neosoft</h3>
+            <p class="meta">Milwaukee, WI · May 2026 – Aug 2026</p>
+            <p>
+              Built a hybrid CNN+Transformer pipeline for automated myocardial scar segmentation
+              from LGE-CMR and integrated it toward production in suiteHeart post-processing
+              workflows. Used diffusion/score-based generative augmentation to mitigate data
+              scarcity and improve segmentation robustness.
+            </p>
+          </article>
+
+          <article class="timeline-item">
+            <h3>Graduate Research Associate · OSU Wexner Medical Center</h3>
+            <p class="meta">Columbus, OH · Aug 2022 – Present</p>
+            <p>
+              Led AI-based MRE stiffness reconstruction and fast cardiac reconstruction research,
+              including domain adaptation, score-based Gaussian priors, and plug-and-play
+              optimization pipelines.
+            </p>
+          </article>
+
+          <article class="timeline-item">
+            <h3>Machine Learning & Software Development Intern · BLOMSO</h3>
+            <p class="meta">Columbus, OH · May 2025 – Aug 2025</p>
+            <p>
+              Developed end-to-end ML systems for soil nutrient prediction with custom hardware and
+              limited-data model optimization.
+            </p>
+          </article>
+        </div>
+      </section>
+
+      <section class="container section two-col">
+        <article class="card" id="skills">
+          <h2>Skills</h2>
+          <div class="chip-list">
+            <span>Python</span><span>C/C++</span><span>MATLAB</span><span>PyTorch</span>
+            <span>TensorFlow</span><span>CUDA</span><span>Signal Processing</span>
+            <span>Image Processing</span><span>Transformers</span><span>U-Net</span>
+            <span>Diffusion/Score Models</span><span>Biomedical Segmentation</span>
+            <span>Data Augmentation</span><span>Clinical AI Pipelines</span>
+            <span>COMSOL</span><span>Embedded Systems</span>
+          </div>
+        </article>
+
+        <article class="card" id="education">
+          <h2>Education</h2>
+          <p>
+            <strong>Ph.D., Computational Imaging and Machine Learning</strong><br />
+            The Ohio State University, 2022–2027 · GPA: 3.8/4.0
+          </p>
+          <p>
+            <strong>B.S., Electrical and Computer Engineering</strong><br />
+            UET Lahore, 2018–2022 · GPA: 3.6/4.0
+          </p>
+        </article>
+      </section>
+
+      <section class="container section two-col">
+        <article class="card" id="leadership">
+          <h2>Leadership & Service</h2>
+          <ul class="compact-list">
+            <li>Peer Mentor, BMEGSA Peer2Peer Program (2023–2024)</li>
+            <li>Undergraduate Research Mentor (2022–2024)</li>
+            <li>PhD Admissions Guidance Speaker, UET Lahore (2023–2025)</li>
+            <li>Volunteer, International Friendship Inc. (2022–2025)</li>
+          </ul>
+        </article>
+
+        <article class="card" id="awards">
+          <h2>Honors & Awards</h2>
+          <ul class="compact-list">
+            <li>Distinction in Signals Processing, OSU (2022)</li>
+            <li>National Talent Scholarship (2018–2022)</li>
+          </ul>
+        </article>
+      </section>
+
+      <section id="contact" class="container section contact">
+        <h2>Let’s Connect</h2>
+        <p>
+          I’m open to research collaborations in biomedical imaging, MRE, and machine learning for
+          healthcare.
+        </p>
+        <div class="contact-links">
+          <a href="mailto:khan.hassan13579@gmail.com">Gmail</a>
+          <a href="mailto:iftikhar.15@buckeyemail.osu.edu">Outlook</a>
+          <a href="https://www.linkedin.com/in/hassan-iftikhar-8305a9191/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+          <a href="https://github.com/HassanIftikhar013" target="_blank" rel="noopener noreferrer">GitHub</a>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <div class="container">
+        <p>© <span id="year"></span> Hassan Iftikhar · Built for GitHub Pages</p>
+      </div>
+    </footer>
+
+    <script src="assets/script.js"></script>
+  </body>
+</html>

@@ -120,6 +120,21 @@ a:hover {
   max-width: 65ch;
 }
 
+.lead-tag {
+  font-weight: 800;
+  letter-spacing: 0.01em;
+}
+
+.lead-tag--internship {
+  color: #73c3ff;
+  text-shadow: 0 0 14px rgba(77, 163, 255, 0.32);
+}
+
+.lead-tag--phd {
+  color: #9fd8ff;
+  text-shadow: 0 0 14px rgba(159, 216, 255, 0.28);
+}
+
 .hero-note {
   margin: 14px 0 0;
   color: #c1d1ef;
